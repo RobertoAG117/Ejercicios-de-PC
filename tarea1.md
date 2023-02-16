@@ -52,6 +52,6 @@ minutos
 
 13 dividimos el resultado entre el numero de meses que tenemos en un año (en este caso es 12)
 
-14 mostramos el resultado es  26 868. 386 años
+14 mostramos el resultado es  26 868 año con 3 meses
 
 15 fin
