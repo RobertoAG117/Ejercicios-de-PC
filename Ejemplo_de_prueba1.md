@@ -4,21 +4,21 @@
 ### Pasos
 * 1 Inicio
 ### Declar
-* Ingredientes
+* 2 Ingredientes
 * pc
 * steam
 * age of empires
 * cuenta de xbox 
 
 ### Procesos
-* 2 prendemos la pc
-* 3 iniciamos sesion
-* 4 abrimos steam
-* 5 iniciamos el age of empires
-* 6 iniciamos sesión en xbox 
-* 7 seleccionamos el modo de juego (en este caso competitivo)
-* 8 buscamos partida
-* 9 iniciamos la partida 
+* 3 prendemos la pc
+* 4 iniciamos sesion
+* 5 abrimos steam
+* 6 iniciamos el age of empires
+* 7 iniciamos sesión en xbox 
+* 8 seleccionamos el modo de juego (en este caso competitivo)
+* 9 buscamos partida
+* 10 iniciamos la partida 
 
 ### Final
 * Listo ya estamos jugando el modo competitivo de age of empires
