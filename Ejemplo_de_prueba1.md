@@ -1,7 +1,7 @@
 # Ejercicio 1
 ## Algoritmo cualitativo de jugar age of empires en modo competitivo
 
-## Pasos
+### Pasos
 * 1 Inicio
 ### Declaración de Ingredientes
 * pc
