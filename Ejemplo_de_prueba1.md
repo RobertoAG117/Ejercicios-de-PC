@@ -9,7 +9,7 @@
 * age of empires
 * cuenta de xbox 
 
-### Proceso
+### Procesos
 * 2 prendemos la pc
 * 3 iniciamos sesion
 * 4 abrimos steam
