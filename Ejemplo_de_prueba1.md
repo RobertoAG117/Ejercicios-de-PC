@@ -3,7 +3,8 @@
 
 ### Pasos
 * 1 Inicio
-### Declaración de Ingredientes
+### Declar
+* Ingredientes
 * pc
 * steam
 * age of empires
