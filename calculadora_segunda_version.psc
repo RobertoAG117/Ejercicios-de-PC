@@ -18,7 +18,24 @@ Algoritmo calculadora_segunda_version
 			res <- num1*num2
 		"^":
 			res <- num1^num2
-		//falta la division de piso 
+			//falta la division de piso 
+		"//":
+			Si num2=0 Entonces
+				escribir "no puedes hacer la operacion entre cero"
+			SiNo
+				res <- num1 MOD num2
+			Fin Si
+		De Otro Modo:
+			escribir "operador no valido"
+			
+		"%":
+			Si num2=0 Entonces
+				escribir "no puedes sacar el ´porcentaje entre cero"
+			SiNo
+				res <- num1 % num2
+			Fin Si
+		De Otro Modo:
+			escribir "operador no valido"
 		
 		"/":
 			Si num2=0 Entonces
