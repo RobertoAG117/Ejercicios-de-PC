@@ -18,6 +18,6 @@ Algoritmo actividad_2_examen
 	
 	escribir "la suma de las edades es de ", suma
 	prom = ( suma / per)
-	escribir " La edad promedio de los ",per, " alumnos es de ", prom
+	escribir " La edad promedio de los ", per, " alumnos es de ", prom
 	
 FinAlgoritmo
